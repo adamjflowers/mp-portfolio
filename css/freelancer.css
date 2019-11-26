@@ -9372,7 +9372,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
