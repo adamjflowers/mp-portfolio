@@ -9654,7 +9654,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: #000;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -9841,7 +9841,7 @@ form .row:first-child .floating-label-form-group {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #da291c;
-  color: #000;
+  color: #fff;
 }
 
 .copyright {
