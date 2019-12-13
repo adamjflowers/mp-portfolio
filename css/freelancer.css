@@ -2256,8 +2256,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #000;
+  border-color: #da291c;
 }
 
 .btn-primary:hover {
@@ -9372,7 +9372,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #fff !important;
+  color: #da291c !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9752,7 +9752,7 @@ a.text-dark:hover, a.text-dark:focus {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgb(218, 41, 28);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -9782,7 +9782,7 @@ a.text-dark:hover, a.text-dark:focus {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: #000;
   opacity: 1;
 }
 
@@ -9841,7 +9841,7 @@ form .row:first-child .floating-label-form-group {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #da291c;
-  color: #fff;
+  color: #000;
 }
 
 .copyright {
